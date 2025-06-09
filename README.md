@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **dio0x1a/dio0x1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
