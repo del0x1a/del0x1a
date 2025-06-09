@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# @🌍
+
+- 🫠 `pip install --regret`
+- 🐛 I make bugs no debugger can understand.
+- 🐈 My cat reviews my PRs. He’s also the CTO.
+
+---
