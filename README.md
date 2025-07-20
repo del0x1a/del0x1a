@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 
 # Hi there 👋  
 @🌍
-
-🐛 I make bugs no debugger can understand.  
-🐈 My cat reviews my PRs. He’s also the CTO.  
 💾 Code is temporary. Slop is forever.
