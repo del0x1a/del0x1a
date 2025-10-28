@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
 
-💾 Simplicity is prerequisite for reliability.
+💾 Simplicity is a prerequisite for reliability.
 
 **Data Engineer** focused on performance and streaming architectures.  
 My background includes: Python, Kafka, GCP, Snowflake, dbt, Airflow, Airbyte, Kubernetes, Bash, Linux, FastAPI, SQL, MSSQL, Postgres.  
