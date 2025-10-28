@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm del 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
+
 💾 Code is temporary. Slop is forever.
 
 **Data Engineer** focused on performance and streaming architectures.  
