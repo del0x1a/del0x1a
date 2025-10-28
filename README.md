@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 **Data Engineer** focused on performance and streaming architectures.  
 My background includes: Python, Kafka, GCP, Snowflake, dbt, Airflow, Airbyte, Kubernetes, Bash, Linux, FastAPI, SQL, MSSQL, Postgres.  
+
 🛠️ Currently diving deep into PySpark and database internals – working towards building my own DB from scratch.
 
 This is my open source profile for experimenting, testing new things, and sharing anything interesting I find on the way.
