@@ -14,7 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋  
-@🌍
+
+# Hi, I'm del 👋
 
 💾 Code is temporary. Slop is forever.
+
+**Data Engineer** focused on performance and streaming architectures.  
+My background includes: Python, Kafka, GCP, Snowflake, dbt, Airflow, Airbyte, Kubernetes, Bash, Linux, FastAPI, SQL, MSSQL, Postgres.  
+🛠️ Currently diving deep into PySpark and database internals – working towards building my own DB from scratch.
+
+This is my open source profile for experimenting, testing new things, and sharing anything interesting I find on the way.
+
+- 🏢 Part of [vo1d0x](https://github.com/vo1d0x)
+- 🌐 [qube.foo](https://qube.foo)
+- 🎮 Fun fact: I still play AVP2 to this day.
+
+---
+
+**Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=del0x1a&show_icons=true&hide=prs&count_private=true&hide_title=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
