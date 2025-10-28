@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm del 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
 💾 Code is temporary. Slop is forever.
 
 **Data Engineer** focused on performance and streaming architectures.  
@@ -33,5 +34,3 @@ This is my open source profile for experimenting, testing new things, and sharin
 
 **Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=del0x1a&show_icons=true&hide=prs&count_private=true&hide_title=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
